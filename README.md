@@ -6,7 +6,7 @@ Hi there! I'm a Canada-based full-stack developer with 6 years experience buildi
 |          | Well                                                        | A Little (but would like to know better)         | Not Very Well (but would like to learn)                               |
 |----------|-------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------|
 | Frontend | Javascript, Typescript, Vue/Vuex                            | React/Redux, Angular                             | React-Native, Cordova                                                 |
-| Backend  | NodeJS, PHP, Java, Express, Laravel, MySQL, Postgres, Redis | Python <img src='https://raw.githubusercontent.com/joelhamilton5/joelhamilton5/master/icons/arduino/arduino-plain.svg' width='10'>, C++, Flask, Django, MongoDB, GIS Mapping, NumPy/Pandas | Ruby, Go, Kotlin, Swift, Objective-C, Rails, NestJS, GraphQL, C#/.NET |
+| Backend  | NodeJS, PHP, Java, Express, Laravel, MySQL, Postgres, Redis | Python, C++, Flask, Django, MongoDB, GIS Mapping, NumPy/Pandas | Ruby, Go, Kotlin, Swift, Objective-C, Rails, NestJS, GraphQL, C#/.NET |
 | DevOps   | Bash scripting, server admin, AWS, Digital Ocean, Docker    | GCP, Azure, Kubernetes                           |                                                                       |
 | Fields   | Healthcare, eLearning, Oil & Gas                            | Finance                                          |                                                                       |
 
