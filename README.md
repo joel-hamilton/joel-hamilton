@@ -1,12 +1,12 @@
 # Joel Hamilton
 
-Welcome! I'm a Canada-based full-stack developer with 6 years experience building and shipping large-scale customer-facing apps. If you're hiring (remotely or in London, ON), I'd love to talk!
+Hi there! I'm a Canada-based full-stack developer with 6 years experience building and shipping large-scale customer-facing apps. If you're hiring (remotely or in London, ON), I'd love to talk!
 
 ## Things I Know
 |          | Well                                                        | A Little (but would like to know better)         | Not Very Well (but would like to learn)                               |
 |----------|-------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------|
 | Frontend | Javascript, Typescript, Vue/Vuex                            | React/Redux, Angular                             | React-Native, Cordova                                                 |
-| Backend  | NodeJS, PHP, Java, Express, Laravel, MySQL, Postgres, Redis | Python, C++, Flask, Django, MongoDB, GIS Mapping | Ruby, Go, Kotlin, Swift, Objective-C, Rails, NestJS, GraphQL, C#/.NET |
+| Backend  | NodeJS, PHP, Java, Express, Laravel, MySQL, Postgres, Redis | Python <img src='https://raw.githubusercontent.com/joelhamilton5/joelhamilton5/master/icons/arduino/arduino-plain.svg' width='10'>, C++, Flask, Django, MongoDB, GIS Mapping, NumPy/Pandas | Ruby, Go, Kotlin, Swift, Objective-C, Rails, NestJS, GraphQL, C#/.NET |
 | DevOps   | Bash scripting, server admin, AWS, Digital Ocean, Docker    | GCP, Azure, Kubernetes                           |                                                                       |
 | Fields   | Healthcare, eLearning, Oil & Gas                            | Finance                                          |                                                                       |
 
@@ -23,7 +23,10 @@ Automate the boring things!
 - [scripts](https://github.com/joelhamilton5/scripts)
 - [google-scripts](https://github.com/joelhamilton5/google-scripts)
 
+### Just for Fun/Learning Projects
+- [Physics Flakes](https://github.com/joelhamilton5/physics-flakes)
+- [earthquakes](https://github.com/joelhamilton5/earthquakes)
 
-## Open-source Consributions
+## Open-source Contributions
 - [Chart.js](https://github.com/chartjs/Chart.js)
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar)
