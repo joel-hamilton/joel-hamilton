@@ -7,13 +7,14 @@ Hi there! I'm a Canada-based full-stack developer with 6 years experience buildi
 |----------|-------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------|
 | Frontend | Javascript, Typescript, Vue/Vuex                            | React/Redux, Angular                             | React-Native, Cordova                                                 |
 | Backend  | NodeJS, PHP, Java, Express, Laravel, MySQL, Postgres, Redis | Python, C++, Flask, Django, MongoDB, GIS Mapping, NumPy/Pandas | Ruby, Go, Kotlin, Swift, Objective-C, Rails, NestJS, GraphQL, C#/.NET |
-| DevOps   | Bash scripting, server admin, AWS, Digital Ocean, Docker    | GCP, Azure, Kubernetes                           |                                                                       |
+| DevOps   | Bash scripting, server admin, AWS, Google Cloud Platform, Digital Ocean, Docker    | Azure, Kubernetes                           |                                                                       |
 | Fields   | Healthcare, eLearning, Oil & Gas                            | Finance                                          |                                                                       |
 
 
 ## A Hitchhiker's Guide to the Repos
 ### Building Things
 Code integrated into physical projects
+- [mirror](https://github.com/joelhamilton5/mirror)
 - [photo-booth](https://github.com/joelhamilton5/photo-booth)
 - [arduino-projects](https://github.com/joelhamilton5/arduino-projects)
 
