@@ -32,7 +32,7 @@ _Automate the boring things!_
 ### Just for Fun/Learning Projects
 - [earthquakes](https://github.com/joelhamilton5/earthquakes)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20">&nbsp;&nbsp;&nbsp;<img src="icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20">&nbsp;&nbsp;&nbsp;<img src="icons/grunt/grunt-original.svg" alt="grunt" width="20" height="20">
     - Playing around with Vue/Vuetify, and some GIS/MapBox stuff
-- [physics-flakes](https://github.com/joelhamilton5/physics-flakes)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/android/android-original.svg" alt="android" width="20" height="20">&nbsp;&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">&nbsp;&nbsp;&nbsp;<img src="icons/gradle/gradle-original.svg" alt="gradle" width="20" height="20">
+- [physics-flakes](https://github.com/joelhamilton5/physics-flakes)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/android/android-original.svg" alt="android" width="20" height="20">&nbsp;&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
     - This was built as a learning project; it's a little kistch but I was pretty pleased with how it turned out. Apparently so are the 8 people who somehow stumbled upon it and still have it installed on their devices!
 ## Open-source Contributions
 - [Chart.js](https://github.com/chartjs/Chart.js)
