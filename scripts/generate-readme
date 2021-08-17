@@ -12,6 +12,7 @@ class Generator {
     async generate() {
         this.repos = await this.getRepos();
         let readme = '# Joel Hamilton\n\n';
+        readme += this.getIntro();
         readme += this.getTable();
         readme += this.getGuide();
         readme += this.getContributions();
@@ -72,13 +73,17 @@ class Generator {
         return Promise.all(promises);
     }
 
+    getIntro() {
+        return `Hi there! I'm a Canada-based full-stack developer with 6 years experience building and shipping large-scale customer-facing apps. I also do a lot of tinkering and building, and I try to put as much of that up here as possible. If you're hiring (remotely or in London, ON), I'd love to talk!\n`;
+    }
+
     getTable() {
         const rows = [
             ['', 'Well', 'A Little (but would like to know better)', 'Not Very Well (but would like to learn)'],
             ['------', '------', '------', '------'],
             ['Frontend', 'Javascript, Typescript, Vue/Vuex', 'React/Redux, Angular', 'React-Native, Cordova'],
             ['Backend', 'NodeJS, PHP, Java, Express, Laravel, MySQL, Postgres, Redis', 'Python, C++, Flask, Django, MongoDB, GIS Mapping, NumPy/Pandas', 'Ruby, Go, Kotlin, Swift, Objective-C, Rails, NestJS, GraphQL, C#/.NET'],
-            ['DevOps', 'Bash scripting, server admin, AWS, Google Cloud Platform, Digital Ocean, Docker', 'Azure, Kubernetes', ''],
+            ['DevOps', 'Bash scripting, server admin, AWS, Google Cloud Platform, Digital Ocean, Docker, Vagrant', 'Azure, Kubernetes', ''],
             ['Fields', 'Healthcare, eLearning, Oil & Gas', 'Finance', '']
         ];
 
@@ -98,7 +103,7 @@ class Generator {
     }
 
     getGuide() {
-        let guide = "\n## A Hitchhiker's Guide to the Repos";
+        let guide = "## A Hitchhiker's Guide to the Repos";
         const categories = [
             {
                 name: 'building',
@@ -122,7 +127,7 @@ class Generator {
 
 
         for (let category of categories) {
-            guide += `\n\n### ${category.displayName}`;
+            guide += `\n### ${category.displayName}`;
             guide += category.lede ? `\n_${category.lede}_` : '';
 
             for (let repo of category.repos) {
