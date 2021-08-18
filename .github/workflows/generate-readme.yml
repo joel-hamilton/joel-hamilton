@@ -1,0 +1,20 @@
+name: 'Generate README'
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install packages
+        run: npm install
+
+      - name: Generate
+        run: ./scripts/generate-readme
