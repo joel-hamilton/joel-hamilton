@@ -1,6 +1,6 @@
 # Joel Hamilton
 
-Hi there! I'm a Canada-based full-stack developer with 6 years experience building and shipping large-scale customer-facing apps. I also do a lot of tinkering and building, and I try to put as much of that up here as possible. If you're hiring (remotely or in London, ON), I'd love to talk!
+Hi there! I'm a Canada-based full-stack developer with 6+ years experience building and shipping large-scale customer-facing apps. I also do a lot of tinkering and building, and I try to put as much of that up here as possible. If you're hiring (remotely or in London, ON), I'd love to talk!
 ## Things I know
 
 ||Well|A Little (but would like to know better)|Not Very Well (but would like to learn)
