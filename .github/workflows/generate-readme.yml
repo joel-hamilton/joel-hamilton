@@ -3,13 +3,11 @@ name: 'Generate README'
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
   schedule:
     - cron:  '*/5 * * * *'
 
 jobs:
-  fetch-repos:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -19,10 +17,4 @@ jobs:
         run: npm install
 
       - name: Generate
-        run: |
-          ./scripts/generate-readme
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add README.md
-          git commit --amend --no-edit
-          git push
+        run: ./scripts/generate-readme
