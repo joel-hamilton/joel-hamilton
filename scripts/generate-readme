@@ -140,7 +140,7 @@ class Generator {
                 guide += `\n- [${repo.name}](${repo.url})`
 
                 if (tagImages.length) {
-                    guide += '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' + tagImages.join('&nbsp;&nbsp;&nbsp;');
+                    guide += '&nbsp;&nbsp;' + tagImages.join('&nbsp;&nbsp;');
                 }
 
                 guide += `\n    - ${repo.summary}`;
