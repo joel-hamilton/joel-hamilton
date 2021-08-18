@@ -23,10 +23,10 @@ class Generator {
         if (readme !== currentReadme) {
             console.log('readmes different, updating')
             fs.writeFileSync('README.md', readme);;
-            execSync('git config user.name github-actions');
-            execSync('git config user.email github-actions@github.com');
-            execSync('git add README.md');
-            execSync('git commit --amend --no-edit && git push -f');
+            console.log(execSync('git config user.name github-actions').toString());
+            console.log(execSync('git config user.email github-actions@github.com').toString());
+            console.log(execSync('git add README.md').toString());
+            console.log(execSync('git commit --amend --no-edit && git push -f').toString());
         } else {
             console.log('readme already updated');
         }
@@ -117,6 +117,12 @@ class Generator {
     getGuide() {
         let guide = "## A Hitchhiker's Guide to the Repos";
         const categories = [
+            {
+                name: 'finance',
+                displayName: 'Finance Things',
+                lede: '',
+                repos: this.repos.filter(r => r.category === 'finance')
+            },
             {
                 name: 'building',
                 displayName: 'Building Things',

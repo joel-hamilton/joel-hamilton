@@ -6,7 +6,7 @@ Hi there! I'm a Canada-based full-stack developer with 6+ years experience build
 ||Well|A Little (but would like to know better)|Not Very Well (but would like to learn)
 |------|------|------|------
 |**Frontend**|Javascript, Typescript, Vue/Vuex|React/Redux, Angular|React-Native, Cordova
-|**Backend**|NodeJS, PHP, Java, Express, Laravel, MySQL, Postgres, Redis|Python, C++, Flask, Django, MongoDB, GIS Mapping, NumPy/Pandas|Ruby, Go, Kotlin, Swift, Objective-C, Rails, NestJS, GraphQL, C#/.NET
+|**Backend**|NodeJS, PHP, Java, Express, Laravel, MySQL, Postgres, Redis|Python, NumPy/Pandas, C++, Flask, Django, MongoDB, GIS Mapping|Ruby, Go, Kotlin, Swift, Objective-C, Rails, NestJS, GraphQL, C#/.NET
 |**DevOps**|Bash scripting, server admin, AWS, Google Cloud Platform, Digital Ocean, Docker, Vagrant|Azure, Kubernetes|
 |**Fields**|Healthcare, eLearning, Oil & Gas|Finance|
 ## A Hitchhiker's Guide to the Repos
