@@ -52,16 +52,8 @@ class Generator {
         ];
 
         for (let cmd of cmds) {
-            
-            const { stdout, stderr } = await exec(cmd);
-            console.log(`STDOUT: ${stdout}`);
-            console.log(`STDERR: ${stderr}`);
-            if (stderr) { 
-                console.log(stderr)
-                process.exit(1);
-            }
-            
-            console.log(stdout);
+            const { stdout, stderr } = await exec(cmd);            
+            console.log(stdout || stderr);
         }
     }
 
