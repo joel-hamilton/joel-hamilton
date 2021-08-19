@@ -1,35 +1,64 @@
 #!/usr/bin/env node
+/**
+Dynamically generate a README with up-to-date info from all my public repos. This runs on a cron within a GitHub Workflow. 
+
+Currently, this script is using custom tag info in the README of each repo to sort them into categories, make a summary blurb, and to add icons.
+ */
 
 const fs = require('fs');
 const readline = require('readline');
 const fetch = require('node-fetch');
 const { execSync } = require('child_process');
+const util = require('util');
+const exec = util.promisify(require('child_process').exec);
 
 class Generator {
     constructor() {
         this.repos = null;
+        this.readme = '';
     }
 
     async generate() {
         this.repos = await this.getRepos();
+        this.readme = this.makeReadme();
+        const currentReadme = fs.readFileSync('README.md', 'utf-8');
+        if (this.readme !== currentReadme) {
+            console.log('READMEs are different, updating.')
+            await this.commit();
+        } else {
+            console.log('No changes, all done.');
+        }
+    }
+
+    makeReadme() {
         const d = new Date();
         let readme = '# Joel Hamilton\n\n';
         readme += this.getIntro();
         readme += this.getTable();
         readme += this.getGuide();
         readme += this.getContributions();
-        readme += `<br><br><sub>This README was generated on ${(d.getFullYear())}-${('' + (d.getMonth() + 1)).padStart(2, '0')}-${('' + d.getDate()).padStart(2, '0')} using GitHub Actions and [scripts/generate-readme](https://github.com/joelhamilton5/joelhamilton5/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>`
+        readme += `<br><br><sub>This README was generated on ${(d.getFullYear())}-${('' + (d.getMonth() + 1)).padStart(2, '0')}-${('' + d.getDate()).padStart(2, '0')} using GitHub Actions and [scripts/generate-readme](https://github.com/joelhamilton5/joelhamilton5/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>`;
+        return readme;
+    }
 
-        const currentReadme = fs.readFileSync('README.md', 'utf-8');
-        if (readme !== currentReadme) {
-            console.log('readmes different, updating')
-            fs.writeFileSync('README.md', readme);;
-            console.log(execSync('git config user.name github-actions').toString());
-            console.log(execSync('git config user.email github-actions@github.com').toString());
-            console.log(execSync('git add README.md').toString());
-            console.log(execSync('git commit -m "Updating README" && git push').toString());
-        } else {
-            console.log('readme already updated');
+    async commit() {
+        fs.writeFileSync('README.md', this.readme);
+        const cmds = [
+            'git config user.name github-actions',
+            'git config user.email github-actions@github.com',
+            'git add README.md',
+            'git commit -m "Updating README"',
+            'git push'
+        ];
+
+        for (let cmd of cmds) {
+            const { stdout, stderr } = await exec(cmd);
+            if (stderr) { 
+                console.log(stderr)
+                process.exit(1);
+            }
+            
+            console.log(stdout);
         }
     }
 
