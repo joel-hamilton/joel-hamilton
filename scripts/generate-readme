@@ -52,7 +52,7 @@ class Generator {
         ];
 
         for (let cmd of cmds) {
-            const { stdout, stderr } = await exec(cmd);            
+            const { stdout, stderr } = await exec(cmd);
             console.log(stdout || stderr);
         }
     }
@@ -191,8 +191,9 @@ class Generator {
     getContributions() {
         return `
 ## Open-source Contributions
-- [Chart.js](https://github.com/chartjs/Chart.js)
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar)`
+- [chartjs/Chart.js #5319](https://github.com/chartjs/Chart.js)
+- [mherrmann/fullcalendar-rightclick](https://github.com/mherrmann/fullcalendar-rightclick)
+- [thodorisbais/percircle](https://github.com/mherrmann/thodorisbais/percircle)`
     }
 }
 
