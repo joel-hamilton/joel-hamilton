@@ -32,6 +32,8 @@ _Automate the boring things!_
 ### Just for Fun/Learning Projects
 - [earthquakes](https://github.com/joelhamilton5/earthquakes)&nbsp;&nbsp;<img src="icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/grunt/grunt-original.svg" alt="grunt" width="20" height="20">
     - Playing around with Vue/Vuetify, and some GIS/MapBox stuff
+- [peoplebase](https://github.com/joelhamilton5/peoplebase)&nbsp;&nbsp;<img src="icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/php/php-original.svg" alt="php" width="20" height="20">&nbsp;&nbsp;<img src="icons/laravel/laravel-original.svg" alt="laravel" width="20" height="20">&nbsp;&nbsp;<img src="icons/sass/sass-original.svg" alt="sass" width="20" height="20">&nbsp;&nbsp;<img src="icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20">&nbsp;&nbsp;<img src="icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20">
+    - Contact management app built with Laravel and Vue.
 - [photo-mosaic](https://github.com/joelhamilton5/photo-mosaic)&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
     - Java program which creates a mosaic out of selected images.
 - [physics-flakes](https://github.com/joelhamilton5/physics-flakes)&nbsp;&nbsp;<img src="icons/android/android-original.svg" alt="android" width="20" height="20">&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
