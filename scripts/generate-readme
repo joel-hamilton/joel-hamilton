@@ -191,9 +191,9 @@ class Generator {
     getContributions() {
         return `
 ## Open-source Contributions
-- [chartjs/Chart.js #5319](https://github.com/chartjs/Chart.js)
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 - [mherrmann/fullcalendar-rightclick](https://github.com/mherrmann/fullcalendar-rightclick)
-- [thodorisbais/percircle](https://github.com/mherrmann/thodorisbais/percircle)`
+- [thodorisbais/percircle](https://github.com/thodorisbais/percircle)`
     }
 }
 

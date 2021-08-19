@@ -39,5 +39,6 @@ _Automate the boring things!_
 - [physics-flakes](https://github.com/joelhamilton5/physics-flakes)&nbsp;&nbsp;<img src="icons/android/android-original.svg" alt="android" width="20" height="20">&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
     - This is a native Android app, originally built as a learning project; it's a little kistch but I was pretty pleased with how it turned out. Apparently so are the 8 people who somehow stumbled upon it and still have it installed on their devices!
 ## Open-source Contributions
-- [Chart.js](https://github.com/chartjs/Chart.js)
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar)<br><br><sub>This README was generated on 2021-08-19 using GitHub Actions and [scripts/generate-readme](https://github.com/joelhamilton5/joelhamilton5/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
+- [chartjs/Chart.js #5319](https://github.com/chartjs/Chart.js)
+- [mherrmann/fullcalendar-rightclick](https://github.com/mherrmann/fullcalendar-rightclick)
+- [thodorisbais/percircle](https://github.com/mherrmann/thodorisbais/percircle)<br><br><sub>This README was generated on 2021-08-19 using GitHub Actions and [scripts/generate-readme](https://github.com/joelhamilton5/joelhamilton5/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
