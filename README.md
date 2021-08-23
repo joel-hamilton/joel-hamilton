@@ -30,8 +30,6 @@ _Automate the boring things!_
 - [scripts](https://github.com/joelhamilton5/scripts)&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">
     - An eclectic assortment of delightful scripts.
 ### Just for Fun/Learning Projects
-- [earthquakes](https://github.com/joelhamilton5/earthquakes)&nbsp;&nbsp;<img src="icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/grunt/grunt-original.svg" alt="grunt" width="20" height="20">
-    - Playing around with Vue/Vuetify, and some GIS/MapBox stuff
 - [peoplebase](https://github.com/joelhamilton5/peoplebase)&nbsp;&nbsp;<img src="icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/php/php-original.svg" alt="php" width="20" height="20">&nbsp;&nbsp;<img src="icons/laravel/laravel-original.svg" alt="laravel" width="20" height="20">&nbsp;&nbsp;<img src="icons/sass/sass-original.svg" alt="sass" width="20" height="20">&nbsp;&nbsp;<img src="icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20">&nbsp;&nbsp;<img src="icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20">
     - Contact management SPA built with Laravel and Vue.
 - [photo-mosaic](https://github.com/joelhamilton5/photo-mosaic)&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
