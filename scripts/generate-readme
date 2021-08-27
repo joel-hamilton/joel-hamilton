@@ -175,9 +175,11 @@ class Generator {
 
             for (let repo of category.repos) {
                 let plainIcons = ['graphql']; // have -plain suffix rather than -original
-                let imgLoc = tag + (plainIcons.includes(tag) ? '-plain.svg' : '-original.svg')
-                
-                const tagImages = repo.tags.map(tag => `<img src="icons/${tag}/${tagLoc}" alt="${tag}" width="20" height="20">`);
+
+                const tagImages = repo.tags.map(tag => {
+                    let tagLoc = tag + (plainIcons.includes(tag) ? '-plain.svg' : '-original.svg')
+                    return `<img src="icons/${tag}/${tagLoc}" alt="${tag}" width="20" height="20">`
+                });
                 guide += `\n- [${repo.name}](${repo.url})`
 
                 if (tagImages.length) {
