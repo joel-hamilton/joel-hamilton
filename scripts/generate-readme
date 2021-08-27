@@ -47,7 +47,7 @@ class Generator {
             'git config user.name github-actions',
             'git config user.email github-actions@github.com',
             'git add README.md',
-            'git commit -m "Updating README"',
+            'git commit -m "Workflow-triggered README update"',
             'git push'
         ];
 
@@ -111,7 +111,7 @@ class Generator {
     }
 
     getIntro() {
-        return `Hi there! I'm a Canada-based full-stack developer with 6+ years experience building and shipping large-scale customer-facing apps. I also do a lot of tinkering and building, and I try to put as much of that up here as possible. If you're hiring (remotely or in London, ON), I'd love to talk!\n`;
+        return `Hi there! I'm a Canada-based full stack developer with 6+ years experience building and shipping large-scale customer-facing apps. I also do a lot of tinkering and building, and I try to put as much of that up here as possible. If you're hiring (remotely or in London, ON), I'd love to talk!\n`;
     }
 
     getTable() {
@@ -174,7 +174,10 @@ class Generator {
             guide += category.lede ? `\n_${category.lede}_` : '';
 
             for (let repo of category.repos) {
-                const tagImages = repo.tags.map(tag => `<img src="icons/${tag}/${tag}-original.svg" alt="${tag}" width="20" height="20">`);
+                let plainIcons = ['graphql']; // have -plain suffix rather than -original
+                let imgLoc = tag + (plainIcons.includes(tag) ? '-plain.svg' : '-original.svg')
+                
+                const tagImages = repo.tags.map(tag => `<img src="icons/${tag}/${tagLoc}" alt="${tag}" width="20" height="20">`);
                 guide += `\n- [${repo.name}](${repo.url})`
 
                 if (tagImages.length) {
