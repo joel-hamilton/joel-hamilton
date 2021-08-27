@@ -1,6 +1,6 @@
 # Joel Hamilton
 
-Hi there! I'm a Canada-based full-stack developer with 6+ years experience building and shipping large-scale customer-facing apps. I also do a lot of tinkering and building, and I try to put as much of that up here as possible. If you're hiring (remotely or in London, ON), I'd love to talk!
+Hi there! I'm a Canada-based full stack developer with 6+ years experience building and shipping large-scale customer-facing apps. I also do a lot of tinkering and building, and I try to put as much of that up here as possible. If you're hiring (remotely or in London, ON), I'd love to talk!
 ## Things I know
 
 ||Well|A Little (but would like to know better)|Not Very Well (but would like to learn)
@@ -36,7 +36,7 @@ _Automate the boring things!_
     - Java program which creates a mosaic out of selected images.
 - [physics-flakes](https://github.com/joelhamilton5/physics-flakes)&nbsp;&nbsp;<img src="icons/android/android-original.svg" alt="android" width="20" height="20">&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
     - This is a native Android app, originally built as a learning project; it's a little kistch but I was pretty pleased with how it turned out. Apparently so are the 8 people who somehow stumbled upon it and still have it installed on their devices!
-- [ring-of-fire](https://github.com/joelhamilton5/ring-of-fire)&nbsp;&nbsp;<img src="icons/react/react-original.svg" alt="react" width="20" height="20">&nbsp;&nbsp;<img src="icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20">&nbsp;&nbsp;<img src="icons/graphql/graphql-original.svg" alt="graphql" width="20" height="20">&nbsp;&nbsp;<img src="icons/go/go-original.svg" alt="go" width="20" height="20">
+- [ring-of-fire](https://github.com/joelhamilton5/ring-of-fire)&nbsp;&nbsp;<img src="icons/react/react-original.svg" alt="react" width="20" height="20">&nbsp;&nbsp;<img src="icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20">&nbsp;&nbsp;<img src="icons/graphql/graphql-plain.svg" alt="graphql" width="20" height="20">&nbsp;&nbsp;<img src="icons/go/go-original.svg" alt="go" width="20" height="20">
     - Time-travel visualization of seismic events, using data from USGS.
 ## Open-source Contributions
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
