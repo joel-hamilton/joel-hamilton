@@ -1,14 +1,5 @@
 # Joel Hamilton
 
-Hi there! I'm a Canada-based full stack developer with 6+ years experience building and shipping large-scale customer-facing apps. I also do a lot of tinkering and building, and I try to put as much of that up here as possible. If you're hiring (remotely or in London, ON), I'd love to talk!
-## Things I know
-
-||Well|A Little (but would like to know better)|Not Very Well (but would like to learn)
-|------|------|------|------
-|**Frontend**|Javascript, Typescript, Vue/Vuex|React/Redux, Angular|React-Native, Cordova
-|**Backend**|NodeJS, PHP, Java, Express, Laravel, MySQL, Postgres, Redis|Python, NumPy/Pandas, C++, Flask, Django, MongoDB, GIS Mapping|Ruby, Go, Kotlin, Swift, Objective-C, Rails, NestJS, GraphQL, C#/.NET
-|**DevOps**|Bash scripting, server admin, AWS, Google Cloud Platform, Digital Ocean, Docker, Vagrant|Azure, Kubernetes|
-|**Fields**|Healthcare, eLearning, Oil & Gas|Finance|
 ## A Hitchhiker's Guide to the Repos
 ### Finance Things
 - [ftx-trader](https://github.com/joelhamilton5/ftx-trader)&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/express/express-original.svg" alt="express" width="20" height="20">&nbsp;&nbsp;<img src="icons/python/python-original.svg" alt="python" width="20" height="20">&nbsp;&nbsp;<img src="icons/numpy/numpy-original.svg" alt="numpy" width="20" height="20">&nbsp;&nbsp;<img src="icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/docker/docker-original.svg" alt="docker" width="20" height="20">&nbsp;&nbsp;<img src="icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20">&nbsp;&nbsp;<img src="icons/twitter/twitter-original.svg" alt="twitter" width="20" height="20">
