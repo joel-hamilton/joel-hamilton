@@ -33,8 +33,8 @@ class Generator {
     makeReadme() {
         const d = new Date();
         let readme = '# Joel Hamilton\n\n';
-        readme += this.getIntro();
-        readme += this.getTable();
+        // readme += this.getIntro();
+        // readme += this.getTable();
         readme += this.getGuide();
         readme += this.getContributions();
         readme += `<br><br><sub>This README was generated on ${(d.getFullYear())}-${('' + (d.getMonth() + 1)).padStart(2, '0')}-${('' + d.getDate()).padStart(2, '0')} using GitHub Actions and [scripts/generate-readme](https://github.com/joelhamilton5/joelhamilton5/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>`;
@@ -111,7 +111,7 @@ class Generator {
     }
 
     getIntro() {
-        return `Hi there! I'm a Canada-based full stack developer with 6+ years experience building and shipping large-scale customer-facing apps. I also do a lot of tinkering and building, and I try to put as much of that up here as possible. If you're hiring (remotely or in London, ON), I'd love to talk!\n`;
+        return `Hi there! I'm a full stack developer with 6+ years experience building and shipping large-scale customer-facing apps.\n`;
     }
 
     getTable() {
