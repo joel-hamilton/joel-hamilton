@@ -8,8 +8,6 @@
 _Code integrated into physical projects_
 - [arduino-projects](https://github.com/joelhamilton5/arduino-projects)&nbsp;&nbsp;<img src="icons/arduino/arduino-original.svg" alt="arduino" width="20" height="20">&nbsp;&nbsp;<img src="icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20">
     - Miscellaneous small Arduino projects
-- [mirror](https://github.com/joelhamilton5/mirror)&nbsp;&nbsp;<img src="icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="20" height="20">&nbsp;&nbsp;<img src="icons/php/php-original.svg" alt="php" width="20" height="20">&nbsp;&nbsp;<img src="icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/bash/bash-original.svg" alt="bash" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">&nbsp;&nbsp;<img src="icons/linux/linux-original.svg" alt="linux" width="20" height="20">&nbsp;&nbsp;<img src="icons/github/github-original.svg" alt="github" width="20" height="20">
-    - Code for a Raspberry Pi-based smart mirror I built.
 - [photo-booth](https://github.com/joelhamilton5/photo-booth)&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/bash/bash-original.svg" alt="bash" width="20" height="20">&nbsp;&nbsp;<img src="icons/apple/apple-original.svg" alt="apple" width="20" height="20">
     - Builds and sends templated emails as part of a tethered photo-booth setup. MacOS Automator ties together NodeJS and bash scripts here, resulting in a simple workflow.
 ### Small Scripts and Executables
