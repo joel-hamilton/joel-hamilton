@@ -12,6 +12,8 @@ _Code integrated into physical projects_
     - Builds and sends templated emails as part of a tethered photo-booth setup. MacOS Automator ties together NodeJS and bash scripts here, resulting in a simple workflow.
 ### Small Scripts and Executables
 _Automate the boring things!_
+- [bin](https://github.com/joelhamilton5/bin)&nbsp;&nbsp;<img src="icons/bash/bash-original.svg" alt="bash" width="20" height="20">&nbsp;&nbsp;<img src="icons/python/python-original.svg" alt="python" width="20" height="20">&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">
+    - Some executable programs which make life easier.
 - [google-scripts](https://github.com/joelhamilton5/google-scripts)&nbsp;&nbsp;<img src="icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">
     - Scripts I use with Google Sheets.
 - [scripts](https://github.com/joelhamilton5/scripts)&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">
