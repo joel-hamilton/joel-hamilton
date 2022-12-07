@@ -31,5 +31,6 @@ _Automate the boring things!_
     - React-native calculator app that allows saving values/equations as variables.
 ## Open-source Contributions
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
+- [mdn/content](https://github.com/mdn/content)
 - [mherrmann/fullcalendar-rightclick](https://github.com/mherrmann/fullcalendar-rightclick)
 - [thodorisbais/percircle](https://github.com/thodorisbais/percircle)<br><br><sub>This README was generated on 2022-12-07 using GitHub Actions and [scripts/generate-readme](https://github.com/joel-hamilton/joel-hamilton/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
