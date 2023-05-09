@@ -13,7 +13,7 @@ _Code integrated into physical projects_
 ### Small Scripts and Executables
 _Automate the boring things!_
 - [.config](https://github.com/joel-hamilton/.config)&nbsp;&nbsp;<img src="icons/bash/bash-original.svg" alt="bash" width="20" height="20">&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20">
-    - Portable setup scripts, dotfiles and executable scripts
+    - Portable setup scripts, config and executable scripts
 - [google-scripts](https://github.com/joel-hamilton/google-scripts)&nbsp;&nbsp;<img src="icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">
     - Scripts I use with Google Sheets.
 - [scripts](https://github.com/joel-hamilton/scripts)&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">
