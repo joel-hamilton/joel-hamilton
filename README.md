@@ -33,4 +33,4 @@ _Automate the boring things!_
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 - [mdn/content](https://github.com/mdn/content)
 - [mherrmann/fullcalendar-rightclick](https://github.com/mherrmann/fullcalendar-rightclick)
-- [thodorisbais/percircle](https://github.com/thodorisbais/percircle)<br><br><sub>This README was generated on 2023-06-28 using GitHub Actions and [scripts/generate-readme](https://github.com/joel-hamilton/joel-hamilton/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
+- [thodorisbais/percircle](https://github.com/thodorisbais/percircle)<br><br><sub>This README was generated on 2023-06-29 using GitHub Actions and [scripts/generate-readme](https://github.com/joel-hamilton/joel-hamilton/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
