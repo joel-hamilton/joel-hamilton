@@ -19,12 +19,16 @@ _Automate the boring things!_
 - [scripts](https://github.com/joel-hamilton/scripts)&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">
     - An eclectic assortment of delightful scripts.
 ### Just for Fun/Learning Projects
+- [peoplebase](https://github.com/joel-hamilton/peoplebase)&nbsp;&nbsp;<img src="icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/php/php-original.svg" alt="php" width="20" height="20">&nbsp;&nbsp;<img src="icons/laravel/laravel-original.svg" alt="laravel" width="20" height="20">&nbsp;&nbsp;<img src="icons/sass/sass-original.svg" alt="sass" width="20" height="20">&nbsp;&nbsp;<img src="icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20">&nbsp;&nbsp;<img src="icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20">
+    - Contact management SPA built with Laravel and Vue.
 - [photo-mosaic](https://github.com/joel-hamilton/photo-mosaic)&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
     - Java program which creates a mosaic out of selected images.
 - [physics-flakes](https://github.com/joel-hamilton/physics-flakes)&nbsp;&nbsp;<img src="icons/android/android-original.svg" alt="android" width="20" height="20">&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
     - This is a native Android app, originally built as a learning project; it's a little kistch but I was pretty pleased with how it turned out. Apparently so are the 8 people who somehow stumbled upon it and still have it installed on their devices!
 - [ring-of-fire](https://github.com/joel-hamilton/ring-of-fire)&nbsp;&nbsp;<img src="icons/react/react-original.svg" alt="react" width="20" height="20">&nbsp;&nbsp;<img src="icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20">&nbsp;&nbsp;<img src="icons/graphql/graphql-plain.svg" alt="graphql" width="20" height="20">&nbsp;&nbsp;<img src="icons/go/go-original.svg" alt="go" width="20" height="20">&nbsp;&nbsp;<img src="icons/python/python-original.svg" alt="python" width="20" height="20">&nbsp;&nbsp;<img src="icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20">
     - Time-travel visualization of seismic events, using data from USGS.
+- [VCalc](https://github.com/joel-hamilton/VCalc)&nbsp;&nbsp;<img src="icons/android/android-original.svg" alt="android" width="20" height="20">&nbsp;&nbsp;<img src="icons/react/react-original.svg" alt="react" width="20" height="20">
+    - React-native calculator app that allows saving values/equations as variables.
 ## Open-source Contributions
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 - [mdn/content](https://github.com/mdn/content)
