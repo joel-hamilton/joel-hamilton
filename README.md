@@ -21,8 +21,6 @@ _Automate the boring things!_
 ### Just for Fun/Learning Projects
 - [peoplebase](https://github.com/joel-hamilton/peoplebase)&nbsp;&nbsp;<img src="icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/php/php-original.svg" alt="php" width="20" height="20">&nbsp;&nbsp;<img src="icons/laravel/laravel-original.svg" alt="laravel" width="20" height="20">&nbsp;&nbsp;<img src="icons/sass/sass-original.svg" alt="sass" width="20" height="20">&nbsp;&nbsp;<img src="icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20">&nbsp;&nbsp;<img src="icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20">
     - Contact management SPA built with Laravel and Vue.
-- [photo-mosaic](https://github.com/joel-hamilton/photo-mosaic)&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
-    - Java program which creates a mosaic out of selected images.
 - [physics-flakes](https://github.com/joel-hamilton/physics-flakes)&nbsp;&nbsp;<img src="icons/android/android-original.svg" alt="android" width="20" height="20">&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
     - This is a native Android app, originally built as a learning project; it's a little kistch but I was pretty pleased with how it turned out. Apparently so are the 8 people who somehow stumbled upon it and still have it installed on their devices!
 - [ring-of-fire](https://github.com/joel-hamilton/ring-of-fire)&nbsp;&nbsp;<img src="icons/react/react-original.svg" alt="react" width="20" height="20">&nbsp;&nbsp;<img src="icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20">&nbsp;&nbsp;<img src="icons/graphql/graphql-plain.svg" alt="graphql" width="20" height="20">&nbsp;&nbsp;<img src="icons/go/go-original.svg" alt="go" width="20" height="20">&nbsp;&nbsp;<img src="icons/python/python-original.svg" alt="python" width="20" height="20">&nbsp;&nbsp;<img src="icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20">
@@ -33,4 +31,4 @@ _Automate the boring things!_
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 - [mdn/content](https://github.com/mdn/content)
 - [mherrmann/fullcalendar-rightclick](https://github.com/mherrmann/fullcalendar-rightclick)
-- [thodorisbais/percircle](https://github.com/thodorisbais/percircle)<br><br><sub>This README was generated on 2023-09-08 using GitHub Actions and [scripts/generate-readme](https://github.com/joel-hamilton/joel-hamilton/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
+- [thodorisbais/percircle](https://github.com/thodorisbais/percircle)<br><br><sub>This README was generated on 2023-09-09 using GitHub Actions and [scripts/generate-readme](https://github.com/joel-hamilton/joel-hamilton/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
