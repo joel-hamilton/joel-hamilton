@@ -12,8 +12,6 @@ _Code integrated into physical projects_
     - Builds and sends templated emails as part of a tethered photo-booth setup. MacOS Automator ties together NodeJS and bash scripts here, resulting in a simple workflow.
 ### Small Scripts and Executables
 _Automate the boring things!_
-- [.config](https://github.com/joel-hamilton/.config)&nbsp;&nbsp;<img src="icons/bash/bash-original.svg" alt="bash" width="20" height="20">&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20">
-    - Portable setup scripts, config and executable scripts
 - [ask-cli](https://github.com/joel-hamilton/ask-cli)&nbsp;&nbsp;<img src="icons/rust/rust-original.svg" alt="rust" width="20" height="20">
     - CLI tool to interact with LLMs (currently only GPT)
 - [google-scripts](https://github.com/joel-hamilton/google-scripts)&nbsp;&nbsp;<img src="icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">
@@ -35,4 +33,4 @@ _Automate the boring things!_
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 - [mdn/content](https://github.com/mdn/content)
 - [mherrmann/fullcalendar-rightclick](https://github.com/mherrmann/fullcalendar-rightclick)
-- [thodorisbais/percircle](https://github.com/thodorisbais/percircle)<br><br><sub>This README was generated on 2024-02-06 using GitHub Actions and [scripts/generate-readme](https://github.com/joel-hamilton/joel-hamilton/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
+- [thodorisbais/percircle](https://github.com/thodorisbais/percircle)<br><br><sub>This README was generated on 2024-02-07 using GitHub Actions and [scripts/generate-readme](https://github.com/joel-hamilton/joel-hamilton/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
