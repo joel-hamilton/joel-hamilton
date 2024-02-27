@@ -19,8 +19,6 @@ _Automate the boring things!_
 - [scripts](https://github.com/joel-hamilton/scripts)&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">
     - An eclectic assortment of delightful scripts.
 ### Just for Fun/Learning Projects
-- [peoplebase](https://github.com/joel-hamilton/peoplebase)&nbsp;&nbsp;<img src="icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/php/php-original.svg" alt="php" width="20" height="20">&nbsp;&nbsp;<img src="icons/laravel/laravel-original.svg" alt="laravel" width="20" height="20">&nbsp;&nbsp;<img src="icons/sass/sass-original.svg" alt="sass" width="20" height="20">&nbsp;&nbsp;<img src="icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20">&nbsp;&nbsp;<img src="icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20">
-    - Contact management SPA built with Laravel and Vue.
 - [photo-mosaic](https://github.com/joel-hamilton/photo-mosaic)&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
     - Java program which creates a mosaic out of selected images.
 - [physics-flakes](https://github.com/joel-hamilton/physics-flakes)&nbsp;&nbsp;<img src="icons/android/android-original.svg" alt="android" width="20" height="20">&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
@@ -33,4 +31,4 @@ _Automate the boring things!_
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 - [mdn/content](https://github.com/mdn/content)
 - [mherrmann/fullcalendar-rightclick](https://github.com/mherrmann/fullcalendar-rightclick)
-- [thodorisbais/percircle](https://github.com/thodorisbais/percircle)<br><br><sub>This README was generated on 2024-02-26 using GitHub Actions and [scripts/generate-readme](https://github.com/joel-hamilton/joel-hamilton/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
+- [thodorisbais/percircle](https://github.com/thodorisbais/percircle)<br><br><sub>This README was generated on 2024-02-27 using GitHub Actions and [scripts/generate-readme](https://github.com/joel-hamilton/joel-hamilton/blob/master/scripts/generate-readme), with icons from [devicon](https://github.com/devicons/devicon/)</sub>
