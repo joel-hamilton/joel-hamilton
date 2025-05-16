@@ -6,6 +6,8 @@
     - An app for automated crypto trading. Built with a microservice architecture, it includes a backtesting suite, Twitter integration for automated sentiment-based trading, and scheduled fetching and archival of hard-to-get data.
 ### Building Things
 _Code integrated into physical projects_
+- [arduino-projects](https://github.com/joel-hamilton/arduino-projects)&nbsp;&nbsp;<img src="icons/arduino/arduino-original.svg" alt="arduino" width="20" height="20">&nbsp;&nbsp;<img src="icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20">
+    - Miscellaneous small Arduino projects
 - [photo-booth](https://github.com/joel-hamilton/photo-booth)&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/bash/bash-original.svg" alt="bash" width="20" height="20">&nbsp;&nbsp;<img src="icons/apple/apple-original.svg" alt="apple" width="20" height="20">
     - Builds and sends templated emails as part of a tethered photo-booth setup. MacOS Automator ties together NodeJS and bash scripts here, resulting in a simple workflow.
 ### Small Scripts and Executables
