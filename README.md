@@ -14,10 +14,6 @@ _Code integrated into physical projects_
 _Automate the boring things!_
 - [ask-cli](https://github.com/joel-hamilton/ask-cli)&nbsp;&nbsp;<img src="icons/rust/rust-original.svg" alt="rust" width="20" height="20">
     - CLI tool to interact with LLMs (currently only GPT)
-- [google-scripts](https://github.com/joel-hamilton/google-scripts)&nbsp;&nbsp;<img src="icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">
-    - Scripts I use with Google Sheets.
-- [scripts](https://github.com/joel-hamilton/scripts)&nbsp;&nbsp;<img src="icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20">&nbsp;&nbsp;<img src="icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="20" height="20">
-    - An eclectic assortment of delightful scripts.
 ### Just for Fun/Learning Projects
 - [photo-mosaic](https://github.com/joel-hamilton/photo-mosaic)&nbsp;&nbsp;<img src="icons/java/java-original.svg" alt="java" width="20" height="20">
     - Java program which creates a mosaic out of selected images.
