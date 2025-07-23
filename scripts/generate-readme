@@ -65,7 +65,18 @@ class Generator {
   async getRepos() {
     // fetch all my repos
     const res = await fetch("https://api.github.com/users/joel-hamilton/repos");
-    const repoData = await res.json();
+    let repoData;
+    try {
+      repoData = await res.json();
+    } catch (e) {
+      console.error("Failed to parse repo data:", e);
+      return [];
+    }
+
+    if (!Array.isArray(repoData)) {
+      console.error("GitHub API did not return an array:", repoData);
+      return [];
+    }
 
     // parse data from READMEs in all public repos
     const promises = repoData
