@@ -7,6 +7,8 @@ _Code integrated into physical projects_
 ### Small Scripts and Executables
 _Automate the boring things!_
 ### Just for Fun/Learning Projects
+- [ring-of-fire](https://github.com/joel-hamilton/ring-of-fire)&nbsp;&nbsp;<img src="icons/react/react-original.svg" alt="react" width="20" height="20">&nbsp;&nbsp;<img src="icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20">&nbsp;&nbsp;<img src="icons/graphql/graphql-plain.svg" alt="graphql" width="20" height="20">&nbsp;&nbsp;<img src="icons/go/go-original.svg" alt="go" width="20" height="20">&nbsp;&nbsp;<img src="icons/python/python-original.svg" alt="python" width="20" height="20">&nbsp;&nbsp;<img src="icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20">
+    - Time-travel visualization of seismic events, using data from USGS.
 ## Open-source Contributions
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 - [mdn/content](https://github.com/mdn/content)
